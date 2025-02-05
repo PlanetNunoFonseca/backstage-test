@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "timeline": [
+      ],
+      "key": "javascript",
+      "id": "javascript",
+      "title": "JavaScript",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.javascript.com/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Excepteur **sint** occaecat *cupidatat* non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n```ts\nconst x = \"3\";\n```\n"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "buy",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://reactjs.org/",
+          "title": "Learn more"
+        }
+      ],
+      "key": "react",
+      "id": "react",
+      "title": "React",
+      "quadrant": "frameworks"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "buy",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "key": "code-reviews",
+      "id": "code-reviews",
+      "title": "Code Reviews",
+      "quadrant": "practices"
+    },
+    {
+      "timeline": [
+        {
+          "ringId": "sell",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "key": "force-push",
+      "id": "force-push",
+      "title": "Force push to master",
+      "quadrant": "practices"
+    },
+    {
+      "timeline": [
+        {
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "long description"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/weareplanet",
+          "title": "Learn more"
+        }
+      ],
+      "key": "github",
+      "id": "github",
+      "title": "GitHub",
+      "quadrant": "platform"
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "platform",
+      "name": "Platform"
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks"
+    },
+    {
+      "id": "languages",
+      "name": "Languages"
+    },
+    {
+      "id": "practices",
+      "name": "Practices"
+    }
+  ],
+  "rings": [
+    {
+      "id": "buy",
+      "name": "BUY",
+      "color": "#5BA300",
+      "description": "Represents tools, practices, and technologies that are recommended for adoption and active investment. Items in this stage are considered valuable, strategically aligned, and ready for broader implementation across the organisation."
+    },
+    {
+      "id": "evaluate",
+      "name": "EVALUATE",
+      "color": "#009EB0",
+      "description": "Includes tools, practices, and technologies that are being actively explored through proofs of concept (POCs), experiments, or pilots. Items in this stage have potential value and alignment with organisational goals but require further validation before broader adoption."
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#C7BA00",
+      "description": "Includes tools, practices, and technologies that are mature, effective, and in active use but do not require additional investment or changes. Items in this stage are stable and should continue to be used where already implemented but avoided for new adoption."
+    },
+    {
+      "id": "sell",
+      "name": "SELL",
+      "color": "#E09B96",
+      "description": "Includes tools, practices, and technologies that are being deprecated, phased out, or avoided due to declining relevance, deemed obsolete, or misalignment with organisational goals."
+    }
+  ]
+}
