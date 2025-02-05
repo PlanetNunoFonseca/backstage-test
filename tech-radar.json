@@ -2,11 +2,11 @@
   "entries": [
     {
       "timeline": [
-      {
-        "moved": 0,
-        "ringId": "buy",
-        "date": "2020-08-06T00:00:00.000Z"
-      }
+        {
+          "moved": 0,
+          "ringId": "buy",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
       ],
       "key": "javascript",
       "id": "javascript",
@@ -69,7 +69,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "hold",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "long description"
         }
