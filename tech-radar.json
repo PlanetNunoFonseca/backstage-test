@@ -109,25 +109,25 @@
       "id": "buy",
       "name": "BUY",
       "color": "#5BA300",
-      "description": "Represents tools, practices, and technologies that are recommended for adoption and active investment. Items in this stage are considered valuable, strategically aligned, and ready for broader implementation across the organisation."
+      "description": "Represents tools, practices, and technologies that are recommended for adoption and active investment. Items in this stage are considered valuable, strategically aligned, and ready for broader implementation across the organisation.\n"
     },
     {
       "id": "evaluate",
       "name": "EVALUATE",
       "color": "#009EB0",
-      "description": "Includes tools, practices, and technologies that are being actively explored through proofs of concept (POCs), experiments, or pilots. Items in this stage have potential value and alignment with organisational goals but require further validation before broader adoption."
+      "description": "Includes tools, practices, and technologies that are being actively explored through proofs of concept (POCs), experiments, or pilots. Items in this stage have potential value and alignment with organisational goals but require further validation before broader adoption.\n"
     },
     {
       "id": "hold",
       "name": "HOLD",
       "color": "#C7BA00",
-      "description": "Includes tools, practices, and technologies that are mature, effective, and in active use but do not require additional investment or changes. Items in this stage are stable and should continue to be used where already implemented but avoided for new adoption."
+      "description": "Includes tools, practices, and technologies that are mature, effective, and in active use but do not require additional investment or changes. Items in this stage are stable and should continue to be used where already implemented but avoided for new adoption.\n"
     },
     {
       "id": "sell",
       "name": "SELL",
       "color": "#E09B96",
-      "description": "Includes tools, practices, and technologies that are being deprecated, phased out, or avoided due to declining relevance, deemed obsolete, or misalignment with organisational goals."
+      "description": "Includes tools, practices, and technologies that are being deprecated, phased out, or avoided due to declining relevance, deemed obsolete, or misalignment with organisational goals.\n"
     }
   ]
 }
